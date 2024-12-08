@@ -1,1 +1,1 @@
-worker: ./bin/Alita_Robot
+web: ./bin/Alita_Robot
