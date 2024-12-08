@@ -496,7 +496,7 @@ strings:
     About: |-
       @%s  is one of the fastest and most feature-filled group managers.
 
-      Nazriya ✨ is developed and actively maintained by @DivideProjects!
+      Nazriya ✨ is developed and actively maintained!
 
       Nazriya has been online since 2020 and has served thousands of groups with hundreds of thousands of users!
 
@@ -558,10 +558,8 @@ strings:
       Not able to change language of the bot?
       Easily change by using this module!
 
-      Just type /lang and use inline keyboard to choose a language for yourself or your group.
-
-      You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/Nazriya_robot)
-
+    Now it's just only English language more language coming soon.
+     
   Misc:
     help_msg: |-
       × /info: Get your user info, which can be used as a reply or by passing a User Id or Username.
